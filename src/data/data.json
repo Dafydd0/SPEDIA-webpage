@@ -93,9 +93,9 @@
   ],
   "News": [
     {
-      "title": "New Cybersecurity Initiative",
+      "title": "SPEDIA at C1b3rWall Congress 2024",
       "date": "19-06-2024",
-      "image": "img/news/cyberwall.jpg",
+      "image": "img/news/c1b3rwall.jpg",
       "description": "On June 19th, our colleague Oscar Jover Walsh had the honor of participating as a speaker at the prestigious C1b3rWall Congress on Digital Security and Cyberintelligence, held at the National Police School in Avila. This event, which has now reached its fourth edition, has established itself as a benchmark in the field of cybersecurity, bringing together experts and professionals from the sector to present technological advances and registering more than 16.000 attendees.\n\n In this edition, focused on the topic of Secure Intelligence, Oscar presented a paper entitled “SPEDIA: System for Prediction and Early Detection of Insider Attacks”. The objective of his presentation was to show the advances that the development team has achieved in the field of insider attack detection. In addition, he showed the work done in the characterization of groups of individuals to identify anomalous behavior, as well as the parameterization of threats, identifying techniques, tactics and procedures used in insider attacks. During his presentation, Oscar also shared case studies and practical examples that illustrate how the SPEDIA system works.\n\n We would like to express our sincere thanks to the National Police and the sponsors of the C1b3rWall conference for giving us the opportunity to participate in this event. We also thank the National Institute of Cybersecurity (INCIBE) for the opportunity to work and develop cutting-edge systems and projects in the field of cybersecurity."
     }
   ],
