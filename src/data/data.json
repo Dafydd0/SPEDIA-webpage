@@ -1,0 +1,170 @@
+{
+  "Header": {
+    "logo": "path/to/logo.jpg",
+    "title": "SPEDIA",
+    "paragraph": "System for Prediction and Early Detection of Insider Attacks"
+  },
+  "About": {
+    "paragraph": "System for Prediction and Early Detection of Insider Attacks (SPEDIA), financed by the National Cybersecurity Institute of Spain (INCIBE) through its program for promoting Strategic Cybersecurity Projects in Spain, framed within the Recovery, Transformation and Resilience Plan, through funds from the Next Generation EU program. \n\n The main objective of SPEDIA is the development of an integrated cybersecurity framework equipped with technical capabilities to confront insider threats that include early detection, identification of anomalous behavior, the parameterization of threats and the Dynamic evaluation of cyber-situational risk.",
+    "Why": [
+      "The RSTI research group is part of the Department of Telematics Systems Engineering (DIT) in the School of Telecommunication Engineering (ETSIT) of Universidad Politécnica de Madrid (UPM). He is also a member of the Information Processing and Telecommunication Research Center (IPTC).\n\nThe group is currently formed by 12 full-time people, including professors, researchers, and administration staff. It has a long experience of participation in European and Spanish R&D projects, collaborations with public bodies and private entities, as well as in the organization and teaching of postgraduate courses.\n\n The research lines of the RSTI group have been evolving since its creation more than 30 years ago. Currently, the activity carried out in the framework of R&D projects is centered around three main areas."
+    ],
+    "researchLines": [
+      "Internet of Things: Sensor networks. Rapid prototyping with Arduino, Raspberry Pi, etc. IoT communications (WiFi, ZigBee, BLE, NFC, LTE, M2M, …). Protocols (MQTT, CoAP). Application to Smart Cities, Retail, Mobility & Transport, Public Safety, …,Data Analytics and Visualization. Remote configuration and management. Web based dashboards.",
+      "Advanced Wireless Communications Technologies (5G/6G): Core Network deployments. Evaluation of Network Elements performance. Data and Signalling Traffic Generator. Programable Data Planes, DPDK, P4, Protocol Independent Switching Architecture (PISA). Multi-access Edge Computing (MEC).",
+      "Cybersecurity: Dynamic risk management. Cybersecurity Awareness. Application of Artificial Intelligence to Cybersecurity (Machine Learning and Ontologies-based Expert Systems)- Detection and response to intrusions. Simulation and training. Visualization and tracing of cyberattacks. Protection of critical infrastructures."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "User with highest risk per day",
+      "largeImage": "img/portfolio/user-risk-large.png",
+      "smallImage": "img/portfolio/user-risk-small.png"
+    },
+    {
+      "title": "Top 50 users with most login activity",
+      "largeImage": "img/portfolio/50-users-login-activity-large.png",
+      "smallImage": "img/portfolio/50-users-login-activity-small.png"
+    },
+    {
+      "title": "Max risk value per user",
+      "largeImage": "img/portfolio/max-risk-per-user-large.png",
+      "smallImage": "img/portfolio/max-risk-per-user-small.png"
+    },
+    {
+      "title": "Max risk per PC",
+      "largeImage": "img/portfolio/max-risk-per-pc-large.png",
+      "smallImage": "img/portfolio/max-risk-per-pc-small.png"
+    },
+    {
+      "title": "Top 20 users with most USB connections",
+      "largeImage": "img/portfolio/conexion-usb-20-users-large.png",
+      "smallImage": "img/portfolio/conexion-usb-20-users-small.png"
+    },
+    {
+      "title": "USB connection activity",
+      "largeImage": "img/portfolio/usb-events-large.png",
+      "smallImage": "img/portfolio/usb-events-small.png"
+    },
+    {
+      "title": "Mean risk value",
+      "largeImage": "img/portfolio/mean-risk-large.png",
+      "smallImage": "img/portfolio/mean-risk-small.png"
+    },
+    {
+      "title": "Keylogger execution",
+      "largeImage": "img/portfolio/keylogger-execution-large.png",
+      "smallImage": "img/portfolio/keylogger-execution-small.png"
+    },
+    {
+      "title": "Users with more searches in job sites",
+      "largeImage": "img/portfolio/job-pages-large.png",
+      "smallImage": "img/portfolio/job-pages-small.png"
+    }
+  ],
+  "Partners": [
+    {
+      "image": "img/partners/incibe.png",
+      "description": "Instituto Nacional de Ciberseguridad is cybersecurity. INCIBE works to strengthen digital trust, enhance cybersecurity and resilience, and contribute to the digital marketplace in a way that promotes the safe use of cyberspace in Spain.",
+      "link": "https://www.incibe.es/"
+    },
+    {
+      "image": "img/partners/mtd.png",
+      "description": "The Spanish Ministry for Digital Transformation and the Civil Service is the department of the General State Administration responsible for proposing, coordinating and executing the National Government's policy on telecommunications, the information society, digital transformation and the development and promotion of artificial intelligence.",
+      "link": "https://digital.gob.es/index.html"
+    },
+    {
+      "image": "img/partners/eu.png",
+      "description": "NextGenerationEU is more than a recovery plan, it is a once in a lifetime chance to emerge stronger from the pandemic, transform our economies and societies, and design a Europe that works for everyone. We have everything we need to make this happen. We have a vision, we have a plan and we have agreed to invest €806.9 billion together. Find out how the EU is making Europe healthier, greener, and more digital, and how you can be part of the change.",
+      "link": "https://next-generation-eu.europa.eu/index_es"
+    },
+    {
+      "image": "img/partners/prtr.png",
+      "description": "The Spanish Recovery, Transformation and Resilience Plan articulates a coherent set of investments to be made almost entirely between 2021 and 2023 and an ambitious program of structural and legislative reforms aimed at addressing our country's main challenges. It is structured around four cross-cutting axes that will backbone the transformation of the economy as a whole and are fully aligned with the strategic agendas of the EU, the 2030 Agenda and the United Nations Sustainable Development Goals: ecological transition, digital transformation, gender equality and social and territorial cohesion. These 4 axes are concretized in 10 lever policies and 30 components that articulate the important program of reforms and investments with the 2023 horizon. Translated with DeepL.com (free version)",
+      "link": "https://planderecuperacion.gob.es/"
+    }
+  ],
+  "Publications": [
+    {
+      "img": "img/publications/jnic.png",
+      "text": "IX Jornadas Nacionales de Investigación en Ciberseguridad",
+      "name": "JNIC 2024"
+    }
+  ],
+  "News": [
+    {
+      "title": "New Cybersecurity Initiative",
+      "date": "19-06-2024",
+      "image": "img/news/cyberwall.jpg",
+      "description": "On June 19th, our colleague Oscar Jover Walsh had the honor of participating as a speaker at the prestigious C1b3rWall Congress on Digital Security and Cyberintelligence, held at the National Police School in Avila. This event, which has now reached its fourth edition, has established itself as a benchmark in the field of cybersecurity, bringing together experts and professionals from the sector to present technological advances and registering more than 16.000 attendees.\n\n In this edition, focused on the topic of Secure Intelligence, Oscar presented a paper entitled “SPEDIA: System for Prediction and Early Detection of Insider Attacks”. The objective of his presentation was to show the advances that the development team has achieved in the field of insider attack detection. In addition, he showed the work done in the characterization of groups of individuals to identify anomalous behavior, as well as the parameterization of threats, identifying techniques, tactics and procedures used in insider attacks. During his presentation, Oscar also shared case studies and practical examples that illustrate how the SPEDIA system works.\n\n We would like to express our sincere thanks to the National Police and the sponsors of the C1b3rWall conference for giving us the opportunity to participate in this event. We also thank the National Institute of Cybersecurity (INCIBE) for the opportunity to work and develop cutting-edge systems and projects in the field of cybersecurity."
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/manolo.png",
+      "name": "Manuel Álvarez-Campana",
+      "job": "Project Manager",
+      "linkedin": "https://www.linkedin.com/in/manuel-alvarez-campana/"
+    },
+    {
+      "img": "img/team/xavier.jpeg",
+      "name": "Xavier Andrés Larriva Novo",
+      "job": "Project Manager",
+      "linkedin": "https://www.linkedin.com/in/xavierlarriva-novo/"
+    },
+    {
+      "img": "img/team/oscar.jpeg",
+      "name": "Oscar Jover Walsh",
+      "job": "Researcher",
+      "linkedin": "https://www.linkedin.com/in/oscarjoverwalsh/"
+    },
+    {
+      "img": "img/team/luis.jpeg",
+      "name": "Luis Pérez Miguel",
+      "job": "Researcher",
+      "linkedin": "https://www.linkedin.com/in/luis-p%C3%A9rez-miguel-3aa31921b/"
+    },
+    {
+      "img": "img/team/david.png",
+      "name": "David Álvarez Muñiz",
+      "job": "Researcher",
+      "linkedin": "https://www.linkedin.com/in/david-a-m/"
+    },
+    {
+      "img": "img/team/ana.jpeg",
+      "name": "Ana Fabiola Vasquez Triveño",
+      "job": "Researcher",
+      "linkedin": "https://www.linkedin.com/in/ana-fabiola-vasquez-trive%C3%B1o-529970313"
+    }
+  ],
+  "Contact": {
+    "address": "Grupo RSTI | Telemática | ETSI Telecomunicación Av. Complutense Nº 30 | 28040-Madrid",
+    "phone": " +34 910672105",
+    "email": "gi.rstiupm.es",
+    "facebook": "fb.com",
+    "twitter": "https://x.com/RSTI_UPM",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Detecting Potential Insider Threats",
+      "text": "We specialize in identifying possible cybersecurity incidents related to insider threats, ensuring that any suspicious activity is promptly recognized."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Characterizing and Identifying Anomalous Behavior",
+      "text": "Our expertise allows us to characterize groups of individuals and detect abnormal behavior among potential insiders within the organization."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Parametrizing Threats",
+      "text": "We provide detailed parameters for threats, enabling system operators to accurately identify actions performed by insider attackers."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Suggesting Countermeasures",
+      "text": "We offer tailored countermeasures to address and mitigate internal security incidents effectively."
+    }
+  ]
+}

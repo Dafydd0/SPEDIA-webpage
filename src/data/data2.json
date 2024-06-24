@@ -1,0 +1,26 @@
+"About": {
+    "paragraph": "System for Prediction and Early Detection of Insider Attacks (SPEDIA), financed by the National Cybersecurity Institute of Spain (INCIBE) through its program for promoting Strategic Cybersecurity Projects in Spain, framed within the Recovery, Transformation and Resilience Plan, through funds from the Next Generation EU program.",
+    "Why": [
+      "Detect Insider Threat Incidents",
+      "Characterize and Identify Anomalous Behavior",
+      "Parametrize Threats"
+    ],
+    "Why2": [
+      "Standardize and Identify Insider Actions",
+      "Evaluate Cyber Situational Risk",
+      "Suggest Countermeasures"
+    ]
+  }
+
+  "About": {
+    "paragraph": "The RSTI research group is part of the Department of Telematics Systems Engineering (DIT) in the School of Telecommunication Engineering (ETSIT) of Universidad Politécnica de Madrid (UPM). He is also a member of the Information Processing and Telecommunication Research Center (IPTC).\n\nThe group is currently formed by 12 full-time people, including professors, researchers, and administration staff. It has a long experience of participation in European and Spanish R&D projects, collaborations with public bodies and private entities, as well as in the organization and teaching of postgraduate courses.\n\n The research lines of the RSTI group have been evolving since its creation more than 30 years ago. Currently, the activity carried out in the framework of R&D projects is centered around three main areas :",
+    "Why": [
+      "Internet of Things: Sensor networks. Rapid prototyping with Arduino, Raspberry Pi, etc. IoT communications (WiFi, ZigBee, BLE, NFC, LTE, M2M, …). Protocols (MQTT, CoAP). Application to Smart Cities, Retail, Mobility & Transport, Public Safety, …,Data Analytics and Visualization. Remote configuration and management. Web based dashboards.",
+      "Advanced Wireless Communications Technologies (5G/6G): Core Network deployments. Evaluation of Network Elements performance. Data and Signalling Traffic Generator. Programable Data Planes, DPDK, P4, Protocol Independent Switching Architecture (PISA). Multi-access Edge Computing (MEC).",
+      "Cybersecurity: Dynamic risk management. Cybersecurity Awareness. Application of Artificial Intelligence to Cybersecurity (Machine Learning and Ontologies-based Expert Systems)- Detection and response to intrusions. Simulation and training. Visualization and tracing of cyberattacks. Protection of critical infrastructures."
+    ],
+    "Why2": [
+      "Standardize and Identify Insider Actions",
+      "Evaluate Cyber Situational Risk",
+      "Suggest Countermeasures"
+    ]
