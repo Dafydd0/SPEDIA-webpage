@@ -7,34 +7,37 @@ const initialState = {
   email: "",
   message: "",
 };
+
 export const Contact = (props) => {
   const [{ name, email, message }, setState] = useState(initialState);
+  const [showThankYou, setShowThankYou] = useState(false);
 
   const handleChange = (e) => {
     const { name, value } = e.target;
     setState((prevState) => ({ ...prevState, [name]: value }));
   };
+
   const clearState = () => setState({ ...initialState });
-  
-  
+
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log(name, email, message);
-    
-    {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
-    
+    console.log("Form submitted:", name, email, message);
+
     emailjs
       .sendForm("service_0a3h8ma", "template_6fyu7cw", e.target, "t602HrzgJkXMmHvNN")
       .then(
         (result) => {
-          console.log(result.text);
+          console.log("Email sent successfully:", result.text);
           clearState();
+          setShowThankYou(true);
+          setTimeout(() => setShowThankYou(false), 10000); // Ocultar el mensaje después de 5 segundos
         },
         (error) => {
-          console.log(error.text);
+          console.log("Error sending email:", error.text);
         }
       );
   };
+
   return (
     <div>
       <div id="contact">
@@ -60,6 +63,7 @@ export const Contact = (props) => {
                         placeholder="Name"
                         required
                         onChange={handleChange}
+                        value={name}
                       />
                       <p className="help-block text-danger"></p>
                     </div>
@@ -74,6 +78,7 @@ export const Contact = (props) => {
                         placeholder="Email"
                         required
                         onChange={handleChange}
+                        value={email}
                       />
                       <p className="help-block text-danger"></p>
                     </div>
@@ -88,6 +93,7 @@ export const Contact = (props) => {
                     placeholder="Message"
                     required
                     onChange={handleChange}
+                    value={message}
                   ></textarea>
                   <p className="help-block text-danger"></p>
                 </div>
@@ -96,6 +102,11 @@ export const Contact = (props) => {
                   Send Message
                 </button>
               </form>
+              {showThankYou && (
+                <div className="thank-you-message">
+                  <p>Thank you for contacting us. We will text you back as soon as possible.</p>
+                </div>
+              )}
             </div>
           </div>
           <div className="col-md-3 col-md-offset-1 contact-info">
