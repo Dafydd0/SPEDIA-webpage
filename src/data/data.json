@@ -79,6 +79,11 @@
       "link": "https://next-generation-eu.europa.eu/index_es"
     },
     {
+      "image": "img/partners/upm.jpg",
+      "description": "Universidad Politécnica de Madrid (UPM) is the oldest and largest of all Technical Universities in Spain. It has more than 3,000 faculty members, around 35,000 undergraduate students, and over 8,000 graduate students. UPM is made up of 21 Technical Schools and Faculties covering Architecture, Engineering, Sport and Fashion Design disciplines. Most of its centers are located in the urban district of Madrid, in the City University of Madrid (north of Madrid), in the Montegancedo Campus (west of Madrid), and in the South Campus (southeast of Madrid), although some of them of more recent creation are spread in the outskirts.",
+      "link": "https://www.upm.es/"
+    },
+    {
       "image": "img/partners/prtr.png",
       "description": "The Spanish Recovery, Transformation and Resilience Plan articulates a coherent set of investments to be made almost entirely between 2021 and 2023 and an ambitious program of structural and legislative reforms aimed at addressing our country's main challenges. It is structured around four cross-cutting axes that will backbone the transformation of the economy as a whole and are fully aligned with the strategic agendas of the EU, the 2030 Agenda and the United Nations Sustainable Development Goals: ecological transition, digital transformation, gender equality and social and territorial cohesion. These 4 axes are concretized in 10 lever policies and 30 components that articulate the important program of reforms and investments with the 2023 horizon. Translated with DeepL.com (free version)",
       "link": "https://planderecuperacion.gob.es/"
@@ -94,9 +99,15 @@
   "News": [
     {
       "title": "SPEDIA at C1b3rWall Congress 2024",
-      "date": "19-06-2024",
+      "date": "19/06/2024",
       "image": "img/news/c1b3rwall.jpg",
       "description": "On June 19th, our colleague Oscar Jover Walsh had the honor of participating as a speaker at the prestigious C1b3rWall Congress on Digital Security and Cyberintelligence, held at the National Police School in Avila. This event, which has now reached its fourth edition, has established itself as a benchmark in the field of cybersecurity, bringing together experts and professionals from the sector to present technological advances and registering more than 16.000 attendees.\n\n In this edition, focused on the topic of Secure Intelligence, Oscar presented a paper entitled “SPEDIA: System for Prediction and Early Detection of Insider Attacks”. The objective of his presentation was to show the advances that the development team has achieved in the field of insider attack detection. In addition, he showed the work done in the characterization of groups of individuals to identify anomalous behavior, as well as the parameterization of threats, identifying techniques, tactics and procedures used in insider attacks. During his presentation, Oscar also shared case studies and practical examples that illustrate how the SPEDIA system works.\n\n We would like to express our sincere thanks to the National Police and the sponsors of the C1b3rWall conference for giving us the opportunity to participate in this event. We also thank the National Institute of Cybersecurity (INCIBE) for the opportunity to work and develop cutting-edge systems and projects in the field of cybersecurity."
+    },
+    {
+      "title": "SPEDIA at Forum InCyber Europe",
+      "date": "26/03/2024 - 28/03/2024",
+      "image": "img/news/xavier.jpg",
+      "description": "From March 26th to 28th, our project leader Xavier Larriva Novo proudly represented the Spanish delegation from INCIBE - Instituto Nacional de Ciberseguridad at the Forum InCyber Europe (FIC) in Lille, France. As exhibitors, we showcased our System for Prediction and Early Detection of Insider Attacks (SPEDIA). This event provided a valuable platform for us to present our cutting-edge system to a diverse audience of cybersecurity professionals and experts.\n\n We would like to express our sincere thanks to the organizers and sponsors of the Forum InCyber Europe for giving us the opportunity to participate in this event. We also thank the National Institute of Cybersecurity (INCIBE) for the opportunity to work and develop innovative systems and projects in the field of cybersecurity."
     }
   ],
   "Team": [
@@ -140,31 +151,34 @@
   "Contact": {
     "address": "Grupo RSTI | Telemática | ETSI Telecomunicación Av. Complutense Nº 30 | 28040-Madrid",
     "phone": " +34 910672105",
-    "email": "gi.rstiupm.es",
+    "email": "gi.rsti@upm.es",
     "facebook": "fb.com",
     "twitter": "https://x.com/RSTI_UPM",
     "youtube": "youtube.com"
   },
-  "Features": [
-    {
-      "icon": "fa fa-comments-o",
-      "title": "Detecting Potential Insider Threats",
-      "text": "We specialize in identifying possible cybersecurity incidents related to insider threats, ensuring that any suspicious activity is promptly recognized."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Characterizing and Identifying Anomalous Behavior",
-      "text": "Our expertise allows us to characterize groups of individuals and detect abnormal behavior among potential insiders within the organization."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Parametrizing Threats",
-      "text": "We provide detailed parameters for threats, enabling system operators to accurately identify actions performed by insider attackers."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Suggesting Countermeasures",
-      "text": "We offer tailored countermeasures to address and mitigate internal security incidents effectively."
-    }
-  ]
+  "Features": {
+    "paragraph": "System for Prediction and Early Detection of Insider Attacks (SPEDIA), financed by the National Cybersecurity Institute of Spain (INCIBE) through its program for promoting Strategic Cybersecurity Projects in Spain, framed within the Recovery, Transformation and Resilience Plan, through funds from the Next Generation EU program. \n\n The main objective of SPEDIA is the development of an integrated cybersecurity framework equipped with technical capabilities to confront insider threats that include early detection, identification of anomalous behavior, the parameterization of threats and the Dynamic evaluation of cyber-situational risk.",
+    "list": [
+      {
+        "icon": "fa fa-comments-o",
+        "title": "Detecting Potential Insider Threats",
+        "text": "We specialize in identifying possible cybersecurity incidents related to insider threats, ensuring that any suspicious activity is promptly recognized."
+      },
+      {
+        "icon": "fa fa-magic",
+        "title": "Characterizing and Identifying Anomalous Behavior",
+        "text": "Our expertise allows us to characterize groups of individuals and detect abnormal behavior among potential insiders within the organization."
+      },
+      {
+        "icon": "fa fa-group",
+        "title": "Parametrizing Threats",
+        "text": "We provide detailed parameters for threats, enabling system operators to accurately identify actions performed by insider attackers."
+      },
+      {
+        "icon": "fa fa-bullhorn",
+        "title": "Suggesting Countermeasures",
+        "text": "We offer tailored countermeasures to address and mitigate internal security incidents effectively."
+      }
+    ]
+  }
 }

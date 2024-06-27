@@ -6,8 +6,8 @@ export const Partners = (props) => {
     <div id="partners" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Our Partners</h2>
-          <p>Take a look at the project partners.</p>
+          <h2>Funding and collaboration</h2>
+          <p>Take a look at the project funders and collaborators.</p>
         </div>
         <div className="row">
           {props.data ? (
