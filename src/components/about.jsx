@@ -57,28 +57,12 @@ export const About = (props) => {
   };
 
   return (
-    <div id="about">
+    <div id="about" className="text-center section-spacing">
       <div className="container">
-        <div className="row">
-          <div className="col-xs-12 col-md-6">
-            <img
-              src="img/about.jpg"
-              className="img-responsive"
-              alt="About Us"
-            />
-          </div>
-          <div className="col-xs-12 col-md-6 d-flex flex-column justify-content-between">
-            <div className="about-text">
-              <h2>About Us</h2>
-              <p>
-                {props.data
-                  ? <span dangerouslySetInnerHTML={{ __html: createParagraphWithLinks(props.data.paragraph) }} />
-                  : "loading..."}
-              </p>
-            </div>
-          </div>
+        <div className="col-md-10 col-md-offset-1 section-title">
+          <h2>About Us</h2>
         </div>
-        <div className="row">
+        <div className="row first-row">
           <div className="col-xs-12 col-md-6">
             <div className="research-lines text-center my-auto">
               <h3>About the research group</h3>
@@ -108,12 +92,12 @@ export const About = (props) => {
                   <ul>
                     {props.data
                       ? props.data.researchLines.map((d, i) => (
-                          <li
-                            key={`${d}-${i}`}
-                          >
-                            {highlightTextBeforeColon(d)}
-                          </li>
-                        ))
+                        <li
+                          key={`${d}-${i}`}
+                        >
+                          {highlightTextBeforeColon(d)}
+                        </li>
+                      ))
                       : "loading"}
                   </ul>
                 </div>

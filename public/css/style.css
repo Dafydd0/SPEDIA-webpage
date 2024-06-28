@@ -275,6 +275,47 @@ header .intro-text {
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
+
+/* Añadir más espacio entre las secciones */
+.section-spacing {
+  margin-bottom: 40px; /* Espacio entre secciones */
+}
+
+/* Ajustes para la primera row (imagen y texto) */
+.first-row {
+  margin-bottom: 30px; /* Espacio inferior de la primera row */
+}
+
+/* Ajustes para la segunda row (lista dinámica) */
+.second-row {
+  margin-top: 40px; /* Espacio superior de la segunda row */
+}
+
+/* Ajustes para los elementos dentro de las rows */
+.row-content {
+  margin-bottom: 20px; /* Espacio inferior entre elementos */
+}
+
+/* Ajustes específicos para los íconos en las listas */
+.row-icon {
+  margin-bottom: 10px; /* Espacio inferior de los íconos */
+}
+
+/* Ajustes para el contenedor de la segunda columna */
+/* Ajustes para el contenedor de la segunda columna */
+.col-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Ajusta para alinear desde la parte superior */
+  align-items: center; /* Centra horizontalmente el contenido */
+  margin-top: 20px; /* Ajusta el margen superior según sea necesario */
+}
+
+/* Ajustes para el párrafo dentro de la columna derecha */
+.col-right p {
+  text-align: left; /* Centra el texto horizontalmente */
+}
+
 /* About Section */
 #about {
   padding: 100px 0;
