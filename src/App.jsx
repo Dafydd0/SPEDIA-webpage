@@ -36,6 +36,10 @@ const App = () => {
       <Team data={landingPageData.Team} />
       <About data={landingPageData.About} />
       <Contact data={landingPageData.Contact} />
+      {/* Imagen al final de la página */}
+      <div className="banda-logos">
+        <img src="img/BandaLogos.png" alt="Banda Logos" />
+      </div>
     </div>
   );
 };

@@ -27,6 +27,12 @@ export const About = (props) => {
         linkText: "IPTC",
         linkURL: "https://iptc.upm.es/",
       },
+      {
+        linkText: "RSTI",
+        linkURL: "https://blogs.upm.es/rsti/",
+      },
+
+
     ];
 
     let modifiedText = text;

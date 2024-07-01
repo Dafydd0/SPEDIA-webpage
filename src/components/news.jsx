@@ -13,10 +13,13 @@ export const News = (props) => {
         <div className="section-title">
           <h2>Our News</h2>
         </div>
-        <div className="row">
+        <div className="news-grid">
           {props.data && props.data.length > 0 ? (
             props.data.map((newsItem, index) => (
-              <div key={`${newsItem.title}-${index}`} className="col-md-12 news-item-container">
+              <div
+                key={`${newsItem.title}-${index}`}
+                className="news-item-container"
+              >
                 <div className="news-item">
                   <img
                     src={newsItem.image}
@@ -26,7 +29,12 @@ export const News = (props) => {
                   <div className="news-content">
                     <h3>{newsItem.title}</h3>
                     <p>{newsItem.date}</p>
-                    <p className="news-description" dangerouslySetInnerHTML={{ __html: createParagraphWithLineBreaks(newsItem.description) }} />
+                    <p
+                      className="news-description"
+                      dangerouslySetInnerHTML={{
+                        __html: createParagraphWithLineBreaks(newsItem.description),
+                      }}
+                    />
                   </div>
                 </div>
               </div>
