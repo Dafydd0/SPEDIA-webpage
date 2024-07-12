@@ -118,10 +118,22 @@
       "linkedin": "https://www.linkedin.com/in/manuel-alvarez-campana/"
     },
     {
+      "img": "img/team/julio.jpeg",
+      "name": "Julio Berrocal Colmenarejo",
+      "job": "Senior Researcher",
+      "linkedin": "https://www.linkedin.com/in/julio-berrocal-2b740822/"
+    },
+    {
       "img": "img/team/xavier.jpeg",
       "name": "Xavier Andrés Larriva Novo",
-      "job": "Project Manager",
+      "job": "Senior Researcher",
       "linkedin": "https://www.linkedin.com/in/xavierlarriva-novo/"
+    },
+    {
+      "img": "img/team/enrique.jpeg",
+      "name": "Enrique Vázquez Gallo",
+      "job": "Senior Researcher",
+      "linkedin": "https://www.linkedin.com/in/enrique-v%C3%A1zquez-gallo-6a830431/"
     },
     {
       "img": "img/team/oscar.jpeg",
