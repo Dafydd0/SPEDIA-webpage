@@ -91,17 +91,88 @@
   ],
   "Publications": [
     {
+      "img": "img/publications/expertsystems.jpg",
+      "text": "Expert Systems with Applications",
+      "name": "02/09/2025"
+    },
+    {
+      "img": "img/publications/ieeetransactions.jpg",
+      "text": "Transactions on Information Forensics & Security",
+      "name": "20/07/2025"
+    },
+    {
+      "img": "img/publications/cands.jpg",
+      "text": "COSE - Computers & Security",
+      "name": "15/07/2025"
+    },
+    {
       "img": "img/publications/jnic.png",
-      "text": "IX Jornadas Nacionales de Investigación en Ciberseguridad",
-      "name": "JNIC 2024"
+      "text": "IX Jornadas Nacionales de Investigación en Ciberseguridad - JNIC 2025",
+      "name": "04/06/2025 - 06/06/2025"
+    },
+    {
+      "img": "img/publications/mdpi_logo.png",
+      "text": "Explainable AI and Reinforcement Learning for Improved Intrusion Detection",
+      "name": "10/12/2024"
+    },
+    {
+      "img": "img/publications/recsi.png",
+      "text": "XVIII Reunión Española de Criptografía y Seguridad de la Información - RECSI 2024",
+      "name": "23/10/2024 - 25/10/2024"
+    },
+    {
+      "img": "img/publications/catedra.jpg",
+      "text": "Tecnologías Claves para la Ciberseguridad y la Ciberdefensa: El Ciberespacio como Campo de Batalla",
+      "name": "26/06/2024 - 27/06/2024"
+    },
+    {
+      "img": "img/publications/jnic.png",
+      "text": "IX Jornadas Nacionales de Investigación en Ciberseguridad - JNIC 2024",
+      "name": "27/05/2024 - 29/05/2024"
     }
   ],
   "News": [
+    {
+      "title": "SPEDIA at UPM International Summer School – Data & Security",
+      "date": "30/06/2025 - 04/07/2025",
+      "image": "img/news/spedia_asiaticos.jpeg",
+      "description": "From June 30th to July 4th, the SPEDIA team took part in the UPM International Summer School on Data & Security at the Universidad Politécnica de Madrid. The program focused on two key areas: data analysis techniques—such as mining, curation, visualization, and predictive modeling—and cybersecurity challenges, including the protection of digital assets and proactive risk management. \n\nOur researchers presented SPEDIA’s approach to user modeling and anomaly detection, highlighting how the system anticipates risks and strengthens security. The session fostered constructive discussion with students and academics, contributing to knowledge exchange in data science and cybersecurity."
+    },
+    {
+      "title": "SPEDIA at MorterueloCON",
+      "date": "20/02/2025 - 22/02/2025",
+      "image": "img/news/morteruelo.jpeg",
+      "description": "From February 20th to 22nd, our researchers David and Luis attended the MorterueloCON conference, an important event in the field of cybersecurity and technology. During the event, they had the opportunity to present a talk on the SPEDIA project, showcasing the latest developments and objectives of the initiative.\n\nTheir presentation focused on key aspects of the project, including user modeling and risk management within the system. They explained how SPEDIA leverages advanced techniques to understand user behavior and proactively address potential security threats. The session was well-received and contributed to the exchange of ideas and collaboration with other experts in the field."
+    },
+    {
+      "title": "SPEDIA with Aalto University",
+      "date": "21/02/2025",
+      "image": "img/news/alberto_alto.jpg",
+      "description": "Our researcher Alberto had the opportunity to give a talk at an event organized by the team at Aalto University in Finland. During his presentation, he introduced the SPEDIA system, focusing in particular on how user modeling is performed, how anomalous session predictions are carried out, and which models are used in the process.\n\nThe session allowed for a detailed discussion of SPEDIA’s technical approach, with the goal of sharing our methodology and receiving valuable feedback from the academic and research community in the field of cybersecurity."
+    },
+    {
+      "title": "SPEDIA at RECSI",
+      "date": "23/10/2024 - 25/10/2024",
+      "image": "img/news/luis_recsi.jpg",
+      "description": "This last week, starting on the 23rd of October, our research group attended the XVIII edition of the RECSI (Reunión Española de Criptología y Seguridad de la Información), organized by the University of León. \n\nOn Friday 25th, our representative, Luis Pérez Miguel, presented our 'Proposal of an Ontology for Insider Risk Management and Treatment'. A proposed ontological framework that implements the ITSRM methodology proposed by ENISA as a flexible knowledge base that allows the inference and evaluation of possible risks in reaction to the events captured by the suspected insider users. Developed under the SPEDIA project, financed by the National Cybersecurity Institute of Spain (INCIBE). \n\nThroughout the conference, our team had the opportunity to engage with all the teams leading the Spanish research on information security. Showing impactful work on recent interest areas as the development of post-quantum cryptography protocols and tools, and the applications of AI on cybersecurity. We would like to thank all the representatives of the University of Leon for hosting the event and filling out the program with high level technical lectures."
+    },
+    {
+      "title": "SPEDIA at ENISE",
+      "date": "21/10/2024 - 23/10/2024",
+      "image": "img/news/luis_enise.jpg",
+      "description": "The group participated in the 18th edition of the Encuentro Internacional de Seguridad de la Información (ENISE) - 'DesafIA la nueva era digital', which took place in the city of León on October 21, 22 and 23, 2024 at the Palacio de Exposiciones de León. Specifically, the objectives and general lines of the SPEDIA project were presented within the RENIC workshop - Create to transfer (II Edition). With the aim of presenting our proposal in the fight against insider attackers and collecting feedback and general ideas from the scientific community in the area of security."
+    },
     {
       "title": "SPEDIA at C1b3rWall Congress 2024",
       "date": "19/06/2024",
       "image": "img/news/c1b3rwall.jpg",
       "description": "On June 19th, our colleague Oscar Jover Walsh had the honor of participating as a speaker at the prestigious C1b3rWall Congress on Digital Security and Cyberintelligence, held at the National Police School in Avila. This event, which has now reached its fourth edition, has established itself as a benchmark in the field of cybersecurity, bringing together experts and professionals from the sector to present technological advances and registering more than 16.000 attendees.\n\n In this edition, focused on the topic of Secure Intelligence, Oscar presented a paper entitled “SPEDIA: System for Prediction and Early Detection of Insider Attacks”. The objective of his presentation was to show the advances that the development team has achieved in the field of insider attack detection. In addition, he showed the work done in the characterization of groups of individuals to identify anomalous behavior, as well as the parameterization of threats, identifying techniques, tactics and procedures used in insider attacks. During his presentation, Oscar also shared case studies and practical examples that illustrate how the SPEDIA system works.\n\n We would like to express our sincere thanks to the National Police and the sponsors of the C1b3rWall conference for giving us the opportunity to participate in this event. We also thank the National Institute of Cybersecurity (INCIBE) for the opportunity to work and develop cutting-edge systems and projects in the field of cybersecurity."
+    },
+    {
+      "title": "SPEDIA at Fundación Circulo de Tecnologías para la Defensa y la Seguridad",
+      "date": "21/05/2024",
+      "image": "img/news/mesa_redonda.jpg",
+      "description": "On May 21, the event organized by the Circulo de Defense and Security Technologies attended by more than 200 people participated in the conference, including members of the Ministry of Interior, the Ministry of Defense, state forces such as the National Police and the Civil Guard, as well as managers of leading companies in cybersecurity and artificial intelligence, such as Microsoft, Airbus, and Navantia, among others.\n\n At the event, Professor Xavier Larriva Novo gave a presentation on the impact of artificial intelligence and the importance of cybersecurity in research areas referring to the project SPEDIA."
     },
     {
       "title": "SPEDIA at Forum InCyber Europe",
@@ -136,10 +207,10 @@
       "linkedin": "https://www.linkedin.com/in/enrique-v%C3%A1zquez-gallo-6a830431/"
     },
     {
-      "img": "img/team/oscar.jpeg",
-      "name": "Oscar Jover Walsh",
+      "img": "img/team/david.png",
+      "name": "David Álvarez Muñiz",
       "job": "Researcher",
-      "linkedin": "https://www.linkedin.com/in/oscarjoverwalsh/"
+      "linkedin": "https://www.linkedin.com/in/david-a-m/"
     },
     {
       "img": "img/team/luis.jpeg",
@@ -148,16 +219,16 @@
       "linkedin": "https://www.linkedin.com/in/luis-p%C3%A9rez-miguel-3aa31921b/"
     },
     {
-      "img": "img/team/david.png",
-      "name": "David Álvarez Muñiz",
+      "img": "img/team/oscar.jpeg",
+      "name": "Oscar Jover Walsh",
       "job": "Researcher",
-      "linkedin": "https://www.linkedin.com/in/david-a-m/"
+      "linkedin": "https://www.linkedin.com/in/oscarjoverwalsh/"
     },
     {
-      "img": "img/team/ana.jpeg",
-      "name": "Ana Fabiola Vasquez Triveño",
+      "img": "img/team/alberto.jpg",
+      "name": "Alberto Mateo Muñoz",
       "job": "Researcher",
-      "linkedin": "https://www.linkedin.com/in/ana-fabiola-vasquez-trive%C3%B1o-529970313"
+      "linkedin": "https://www.linkedin.com/in/alberto-mateo/"
     }
   ],
   "Contact": {

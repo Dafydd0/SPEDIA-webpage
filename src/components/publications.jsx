@@ -18,7 +18,7 @@ export const Publications = (props) => {
                     </div>
                     <div className="publication-content">
                       <p>"{d.text}"</p>
-                      <div className="publication-meta"> - {d.name} </div>
+                      <div className="publication-meta"> {d.name} </div>
                     </div>
                   </div>
                 </div>

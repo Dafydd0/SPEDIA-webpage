@@ -1,0 +1,267 @@
+{
+  "Header": {
+    "logo": "path/to/logo.jpg",
+    "title": "SPEDIA",
+    "paragraph": "System for Prediction and Early Detection of Insider Attacks"
+  },
+  "About": {
+    "paragraph": "System for Prediction and Early Detection of Insider Attacks (SPEDIA), financed by the National Cybersecurity Institute of Spain (INCIBE) through its program for promoting Strategic Cybersecurity Projects in Spain, framed within the Recovery, Transformation and Resilience Plan, through funds from the Next Generation EU program. \n\n The main objective of SPEDIA is the development of an integrated cybersecurity framework equipped with technical capabilities to confront insider threats that include early detection, identification of anomalous behavior, the parameterization of threats and the Dynamic evaluation of cyber-situational risk.",
+    "Why": [
+      "The RSTI research group is part of the Department of Telematics Systems Engineering (DIT) in the School of Telecommunication Engineering (ETSIT) of Universidad Politécnica de Madrid (UPM). He is also a member of the Information Processing and Telecommunication Research Center (IPTC).\n\nThe group is currently formed by 12 full-time people, including professors, researchers, and administration staff. It has a long experience of participation in European and Spanish R&D projects, collaborations with public bodies and private entities, as well as in the organization and teaching of postgraduate courses.\n\n The research lines of the RSTI group have been evolving since its creation more than 30 years ago. Currently, the activity carried out in the framework of R&D projects is centered around three main areas."
+    ],
+    "researchLines": [
+      "Internet of Things: Sensor networks. Rapid prototyping with Arduino, Raspberry Pi, etc. IoT communications (WiFi, ZigBee, BLE, NFC, LTE, M2M, …). Protocols (MQTT, CoAP). Application to Smart Cities, Retail, Mobility & Transport, Public Safety, …,Data Analytics and Visualization. Remote configuration and management. Web based dashboards.",
+      "Advanced Wireless Communications Technologies (5G/6G): Core Network deployments. Evaluation of Network Elements performance. Data and Signalling Traffic Generator. Programable Data Planes, DPDK, P4, Protocol Independent Switching Architecture (PISA). Multi-access Edge Computing (MEC).",
+      "Cybersecurity: Dynamic risk management. Cybersecurity Awareness. Application of Artificial Intelligence to Cybersecurity (Machine Learning and Ontologies-based Expert Systems)- Detection and response to intrusions. Simulation and training. Visualization and tracing of cyberattacks. Protection of critical infrastructures."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "User with highest risk per day",
+      "largeImage": "img/portfolio/user-risk-large.png",
+      "smallImage": "img/portfolio/user-risk-small.png"
+    },
+    {
+      "title": "Top 50 users with most login activity",
+      "largeImage": "img/portfolio/50-users-login-activity-large.png",
+      "smallImage": "img/portfolio/50-users-login-activity-small.png"
+    },
+    {
+      "title": "Max risk value per user",
+      "largeImage": "img/portfolio/max-risk-per-user-large.png",
+      "smallImage": "img/portfolio/max-risk-per-user-small.png"
+    },
+    {
+      "title": "Max risk per PC",
+      "largeImage": "img/portfolio/max-risk-per-pc-large.png",
+      "smallImage": "img/portfolio/max-risk-per-pc-small.png"
+    },
+    {
+      "title": "Top 20 users with most USB connections",
+      "largeImage": "img/portfolio/conexion-usb-20-users-large.png",
+      "smallImage": "img/portfolio/conexion-usb-20-users-small.png"
+    },
+    {
+      "title": "USB connection activity",
+      "largeImage": "img/portfolio/usb-events-large.png",
+      "smallImage": "img/portfolio/usb-events-small.png"
+    },
+    {
+      "title": "Mean risk value",
+      "largeImage": "img/portfolio/mean-risk-large.png",
+      "smallImage": "img/portfolio/mean-risk-small.png"
+    },
+    {
+      "title": "Keylogger execution",
+      "largeImage": "img/portfolio/keylogger-execution-large.png",
+      "smallImage": "img/portfolio/keylogger-execution-small.png"
+    },
+    {
+      "title": "Users with more searches in job sites",
+      "largeImage": "img/portfolio/job-pages-large.png",
+      "smallImage": "img/portfolio/job-pages-small.png"
+    }
+  ],
+  "Partners": [
+    {
+      "image": "img/partners/incibe.png",
+      "description": "Instituto Nacional de Ciberseguridad is cybersecurity. INCIBE works to strengthen digital trust, enhance cybersecurity and resilience, and contribute to the digital marketplace in a way that promotes the safe use of cyberspace in Spain.",
+      "link": "https://www.incibe.es/"
+    },
+    {
+      "image": "img/partners/mtd.png",
+      "description": "The Spanish Ministry for Digital Transformation and the Civil Service is the department of the General State Administration responsible for proposing, coordinating and executing the National Government's policy on telecommunications, the information society, digital transformation and the development and promotion of artificial intelligence.",
+      "link": "https://digital.gob.es/index.html"
+    },
+    {
+      "image": "img/partners/eu.png",
+      "description": "NextGenerationEU is more than a recovery plan, it is a once in a lifetime chance to emerge stronger from the pandemic, transform our economies and societies, and design a Europe that works for everyone. We have everything we need to make this happen. We have a vision, we have a plan and we have agreed to invest €806.9 billion together. Find out how the EU is making Europe healthier, greener, and more digital, and how you can be part of the change.",
+      "link": "https://next-generation-eu.europa.eu/index_es"
+    },
+    {
+      "image": "img/partners/upm.jpg",
+      "description": "Universidad Politécnica de Madrid (UPM) is the oldest and largest of all Technical Universities in Spain. It has more than 3,000 faculty members, around 35,000 undergraduate students, and over 8,000 graduate students. UPM is made up of 21 Technical Schools and Faculties covering Architecture, Engineering, Sport and Fashion Design disciplines. Most of its centers are located in the urban district of Madrid, in the City University of Madrid (north of Madrid), in the Montegancedo Campus (west of Madrid), and in the South Campus (southeast of Madrid), although some of them of more recent creation are spread in the outskirts.",
+      "link": "https://www.upm.es/"
+    },
+    {
+      "image": "img/partners/prtr.png",
+      "description": "The Spanish Recovery, Transformation and Resilience Plan articulates a coherent set of investments to be made almost entirely between 2021 and 2023 and an ambitious program of structural and legislative reforms aimed at addressing our country's main challenges. It is structured around four cross-cutting axes that will backbone the transformation of the economy as a whole and are fully aligned with the strategic agendas of the EU, the 2030 Agenda and the United Nations Sustainable Development Goals: ecological transition, digital transformation, gender equality and social and territorial cohesion. These 4 axes are concretized in 10 lever policies and 30 components that articulate the important program of reforms and investments with the 2023 horizon. Translated with DeepL.com (free version)",
+      "link": "https://planderecuperacion.gob.es/"
+    }
+  ],
+  "Publications": [
+{
+      "img": "img/publications/expertsystems.jpg",
+      "text": "Expert Systems with Applications",
+      "name": "02/09/2025"
+    },
+
+    {
+      "img": "img/publications/cands.jpg",
+      "text": "Computers & Security",
+      "name": "15/07/2025"
+    },
+    {
+      "img": "img/publications/expertsystems.jpg",
+      "text": "Expert Systems with Applications",
+      "name": "02/09/2025"
+    },
+    {
+      "img": "img/publications/xplore_logo_white.svg",
+      "text": "IEEE Transactions on Information Forensics and Security",
+      "name": "20/07/2025"
+    },
+    {
+      "img": "img/publications/jnic.png",
+      "text": "IX Jornadas Nacionales de Investigación en Ciberseguridad - JNIC 2025",
+      "name": "04/06/2025 - 06/06/2025"
+    },
+    {
+      "img": "img/publications/mdpi_logo.png",
+      "text": "Explainable AI and Reinforcement Learning for Improved Intrusion Detection",
+      "name": "10/12/2024"
+    },
+    {
+      "img": "img/publications/recsi.png",
+      "text": "XVIII Reunión Española de Criptografía y Seguridad de la Información - RECSI 2024",
+      "name": "23/10/2024 - 25/10/2024"
+    },
+    {
+      "img": "img/publications/catedra.jpg",
+      "text": "Tecnologías Claves para la Ciberseguridad y la Ciberdefensa: El Ciberespacio como Campo de Batalla",
+      "name": "26/06/2024 - 27/06/2024"
+    },
+    {
+      "img": "img/publications/jnic.png",
+      "text": "IX Jornadas Nacionales de Investigación en Ciberseguridad - JNIC 2024",
+      "name": "27/05/2024 - 29/05/2024"
+    }
+  ],
+  "News": [
+    {
+      "title": "SPEDIA at MorterueloCON",
+      "date": "20/02/2025 - 22/02/2025",
+      "image": "img/news/morteruelo.jpeg",
+      "description": "From February 20th to 22nd, our researchers David and Luis attended the MorterueloCON conference, an important event in the field of cybersecurity and technology. During the event, they had the opportunity to present a talk on the SPEDIA project, showcasing the latest developments and objectives of the initiative.\n\nTheir presentation focused on key aspects of the project, including user modeling and risk management within the system. They explained how SPEDIA leverages advanced techniques to understand user behavior and proactively address potential security threats. The session was well-received and contributed to the exchange of ideas and collaboration with other experts in the field."
+    },
+    {
+      "title": "SPEDIA with Aalto University",
+      "date": "21/02/2025",
+      "image": "img/news/alberto_alto.jpg",
+      "description": "Our researcher Alberto had the opportunity to give a talk at an event organized by the team at Aalto University in Finland. During his presentation, he introduced the SPEDIA system, focusing in particular on how user modeling is performed, how anomalous session predictions are carried out, and which models are used in the process.\n\nThe session allowed for a detailed discussion of SPEDIA’s technical approach, with the goal of sharing our methodology and receiving valuable feedback from the academic and research community in the field of cybersecurity."
+    },
+    {
+      "title": "SPEDIA at RECSI",
+      "date": "23/10/2024 - 25/10/2024",
+      "image": "img/news/luis_recsi.jpg",
+      "description": "This last week, starting on the 23rd of October, our research group attended the XVIII edition of the RECSI (Reunión Española de Criptología y Seguridad de la Información), organized by the University of León. \n\nOn Friday 25th, our representative, Luis Pérez Miguel, presented our 'Proposal of an Ontology for Insider Risk Management and Treatment'. A proposed ontological framework that implements the ITSRM methodology proposed by ENISA as a flexible knowledge base that allows the inference and evaluation of possible risks in reaction to the events captured by the suspected insider users. Developed under the SPEDIA project, financed by the National Cybersecurity Institute of Spain (INCIBE). \n\nThroughout the conference, our team had the opportunity to engage with all the teams leading the Spanish research on information security. Showing impactful work on recent interest areas as the development of post-quantum cryptography protocols and tools, and the applications of AI on cybersecurity. We would like to thank all the representatives of the University of Leon for hosting the event and filling out the program with high level technical lectures."
+    },
+    {
+      "title": "SPEDIA at ENISE",
+      "date": "21/10/2024 - 23/10/2024",
+      "image": "img/news/luis_enise.jpg",
+      "description": "The group participated in the 18th edition of the Encuentro Internacional de Seguridad de la Información (ENISE) - 'DesafIA la nueva era digital', which took place in the city of León on October 21, 22 and 23, 2024 at the Palacio de Exposiciones de León. Specifically, the objectives and general lines of the SPEDIA project were presented within the RENIC workshop - Create to transfer (II Edition). With the aim of presenting our proposal in the fight against insider attackers and collecting feedback and general ideas from the scientific community in the area of security."
+    },
+    {
+      "title": "SPEDIA at C1b3rWall Congress 2024",
+      "date": "19/06/2024",
+      "image": "img/news/c1b3rwall.jpg",
+      "description": "On June 19th, our colleague Oscar Jover Walsh had the honor of participating as a speaker at the prestigious C1b3rWall Congress on Digital Security and Cyberintelligence, held at the National Police School in Avila. This event, which has now reached its fourth edition, has established itself as a benchmark in the field of cybersecurity, bringing together experts and professionals from the sector to present technological advances and registering more than 16.000 attendees.\n\n In this edition, focused on the topic of Secure Intelligence, Oscar presented a paper entitled “SPEDIA: System for Prediction and Early Detection of Insider Attacks”. The objective of his presentation was to show the advances that the development team has achieved in the field of insider attack detection. In addition, he showed the work done in the characterization of groups of individuals to identify anomalous behavior, as well as the parameterization of threats, identifying techniques, tactics and procedures used in insider attacks. During his presentation, Oscar also shared case studies and practical examples that illustrate how the SPEDIA system works.\n\n We would like to express our sincere thanks to the National Police and the sponsors of the C1b3rWall conference for giving us the opportunity to participate in this event. We also thank the National Institute of Cybersecurity (INCIBE) for the opportunity to work and develop cutting-edge systems and projects in the field of cybersecurity."
+    },
+    {
+      "title": "SPEDIA at Fundación Circulo de Tecnologías para la Defensa y la Seguridad",
+      "date": "21/05/2024",
+      "image": "img/news/mesa_redonda.jpg",
+      "description": "On May 21, the event organized by the Circulo de Defense and Security Technologies attended by more than 200 people participated in the conference, including members of the Ministry of Interior, the Ministry of Defense, state forces such as the National Police and the Civil Guard, as well as managers of leading companies in cybersecurity and artificial intelligence, such as Microsoft, Airbus, and Navantia, among others.\n\n At the event, Professor Xavier Larriva Novo gave a presentation on the impact of artificial intelligence and the importance of cybersecurity in research areas referring to the project SPEDIA."
+    },
+    {
+      "title": "SPEDIA at Forum InCyber Europe",
+      "date": "26/03/2024 - 28/03/2024",
+      "image": "img/news/xavier.jpg",
+      "description": "From March 26th to 28th, our project leader Xavier Larriva Novo proudly represented the Spanish delegation from INCIBE - Instituto Nacional de Ciberseguridad at the Forum InCyber Europe (FIC) in Lille, France. As exhibitors, we showcased our System for Prediction and Early Detection of Insider Attacks (SPEDIA). This event provided a valuable platform for us to present our cutting-edge system to a diverse audience of cybersecurity professionals and experts.\n\n We would like to express our sincere thanks to the organizers and sponsors of the Forum InCyber Europe for giving us the opportunity to participate in this event. We also thank the National Institute of Cybersecurity (INCIBE) for the opportunity to work and develop innovative systems and projects in the field of cybersecurity."
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/manolo.png",
+      "name": "Manuel Álvarez-Campana",
+      "job": "Project Manager",
+      "linkedin": "https://www.linkedin.com/in/manuel-alvarez-campana/"
+    },
+    {
+      "img": "img/team/julio.jpeg",
+      "name": "Julio Berrocal Colmenarejo",
+      "job": "Senior Researcher",
+      "linkedin": "https://www.linkedin.com/in/julio-berrocal-2b740822/"
+    },
+    {
+      "img": "img/team/xavier.jpeg",
+      "name": "Xavier Andrés Larriva Novo",
+      "job": "Senior Researcher",
+      "linkedin": "https://www.linkedin.com/in/xavierlarriva-novo/"
+    },
+    {
+      "img": "img/team/enrique.jpeg",
+      "name": "Enrique Vázquez Gallo",
+      "job": "Senior Researcher",
+      "linkedin": "https://www.linkedin.com/in/enrique-v%C3%A1zquez-gallo-6a830431/"
+    },
+    {
+      "img": "img/team/david.png",
+      "name": "David Álvarez Muñiz",
+      "job": "Researcher",
+      "linkedin": "https://www.linkedin.com/in/david-a-m/"
+    },
+    {
+      "img": "img/team/luis.jpeg",
+      "name": "Luis Pérez Miguel",
+      "job": "Researcher",
+      "linkedin": "https://www.linkedin.com/in/luis-p%C3%A9rez-miguel-3aa31921b/"
+    },
+    {
+      "img": "img/team/oscar.jpeg",
+      "name": "Oscar Jover Walsh",
+      "job": "Researcher",
+      "linkedin": "https://www.linkedin.com/in/oscarjoverwalsh/"
+    },
+    {
+      "img": "img/team/alberto.jpg",
+      "name": "Alberto Mateo Muñoz",
+      "job": "Researcher",
+      "linkedin": "https://www.linkedin.com/in/alberto-mateo/"
+    }
+  ],
+  "Contact": {
+    "address": "Grupo RSTI | Telemática | ETSI Telecomunicación Av. Complutense Nº 30 | 28040-Madrid",
+    "phone": " +34 910672105",
+    "email": "gi.rsti@upm.es",
+    "facebook": "fb.com",
+    "twitter": "https://x.com/RSTI_UPM",
+    "youtube": "youtube.com"
+  },
+  "Features": {
+    "paragraph": "System for Prediction and Early Detection of Insider Attacks (SPEDIA), financed by the National Cybersecurity Institute of Spain (INCIBE) through its program for promoting Strategic Cybersecurity Projects in Spain, framed within the Recovery, Transformation and Resilience Plan, through funds from the Next Generation EU program. \n\n The main objective of SPEDIA is the development of an integrated cybersecurity framework equipped with technical capabilities to confront insider threats that include early detection, identification of anomalous behavior, the parameterization of threats and the Dynamic evaluation of cyber-situational risk.",
+    "list": [
+      {
+        "icon": "fa fa-comments-o",
+        "title": "Detecting Potential Insider Threats",
+        "text": "We specialize in identifying possible cybersecurity incidents related to insider threats, ensuring that any suspicious activity is promptly recognized."
+      },
+      {
+        "icon": "fa fa-magic",
+        "title": "Characterizing and Identifying Anomalous Behavior",
+        "text": "Our expertise allows us to characterize groups of individuals and detect abnormal behavior among potential insiders within the organization."
+      },
+      {
+        "icon": "fa fa-group",
+        "title": "Parametrizing Threats",
+        "text": "We provide detailed parameters for threats, enabling system operators to accurately identify actions performed by insider attackers."
+      },
+      {
+        "icon": "fa fa-bullhorn",
+        "title": "Suggesting Countermeasures",
+        "text": "We offer tailored countermeasures to address and mitigate internal security incidents effectively."
+      }
+    ]
+  }
+}

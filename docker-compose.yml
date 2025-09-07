@@ -7,6 +7,7 @@ services:
       dockerfile: Dockerfile
     image: spedia-page-image
     container_name: spedia-page
+    restart: always
     ports:
       - "3000:3000"
     volumes:
