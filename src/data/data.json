@@ -93,42 +93,50 @@
     {
       "img": "img/publications/expertsystems.jpg",
       "text": "Expert Systems with Applications",
-      "name": "02/09/2025"
+      "name": "02/09/2025",
+      "url": "https://www.sciencedirect.com/journal/expert-systems-with-applications"
     },
     {
       "img": "img/publications/ieeetransactions.jpg",
       "text": "Transactions on Information Forensics & Security",
-      "name": "20/07/2025"
+      "name": "20/07/2025",
+      "url": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206"
     },
     {
       "img": "img/publications/cands.jpg",
       "text": "COSE - Computers & Security",
-      "name": "15/07/2025"
+      "name": "15/07/2025",
+      "url": "https://www.sciencedirect.com/journal/computers-and-security"
     },
     {
       "img": "img/publications/jnic.png",
       "text": "IX Jornadas Nacionales de Investigación en Ciberseguridad - JNIC 2025",
-      "name": "04/06/2025 - 06/06/2025"
+      "name": "04/06/2025 - 06/06/2025",
+      "url": "https://2025.jnic.es/"
     },
     {
       "img": "img/publications/mdpi_logo.png",
       "text": "Explainable AI and Reinforcement Learning for Improved Intrusion Detection",
-      "name": "10/12/2024"
+      "name": "10/12/2024",
+      "url": "https://www.mdpi.com/2076-3417/14/24/11511"
     },
     {
       "img": "img/publications/recsi.png",
       "text": "XVIII Reunión Española de Criptografía y Seguridad de la Información - RECSI 2024",
-      "name": "23/10/2024 - 25/10/2024"
+      "name": "23/10/2024 - 25/10/2024",
+      "url": "https://congresos.unileon.es/recsi2024/"
     },
     {
       "img": "img/publications/catedra.jpg",
       "text": "Tecnologías Claves para la Ciberseguridad y la Ciberdefensa: El Ciberespacio como Campo de Batalla",
-      "name": "26/06/2024 - 27/06/2024"
+      "name": "26/06/2024 - 27/06/2024",
+      "url": "https://blogs.upm.es/catedra-ceseden-upm/2024/06/03/curso-de-verano-tecnologias-claves-para-la-ciberseguridad-y-la-ciberdefensa-el-ciberespacio-como-campo-de-batalla/"
     },
     {
       "img": "img/publications/jnic.png",
       "text": "IX Jornadas Nacionales de Investigación en Ciberseguridad - JNIC 2024",
-      "name": "27/05/2024 - 29/05/2024"
+      "name": "27/05/2024 - 29/05/2024",
+      "url": "https://www.us.es/eventos/agenda/ix-jornadas-nacionales-de-investigacion-en-ciberseguridad-jnic"
     }
   ],
   "News": [

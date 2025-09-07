@@ -13,12 +13,17 @@ export const Publications = (props) => {
                 <div key={`${d.name}-${i}`} className="col-md-4">
                   <div className="publication">
                     <div className="publication-image">
-                      {" "}
-                      <img src={d.img} alt="" />{" "}
+                      <a
+                        href={d.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <img src={d.img} alt={d.text} />
+                      </a>
                     </div>
                     <div className="publication-content">
-                      <p>"{d.text}"</p>
-                      <div className="publication-meta"> {d.name} </div>
+                      <p>{d.text}</p>
+                      <div className="publication-meta">{d.name}</div>
                     </div>
                   </div>
                 </div>
